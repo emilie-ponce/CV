@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Montserrat", serif;
+}
+.cv{
+    
+}
+
+/*CONTACT/COMPETENCES/ATOUTS/CI*/
+.ccac{
+    background-color: #119FB5;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.photo{
+    width: 40%;
+    padding-top: 12%;
+}
+.mail{
+    padding-top: 5%;
+    color: white;
+    font-size: 13px;
+}
+.ville{
+    padding-top: 1%;
+    color: white;
+    font-size: 13px;
+}
+.github{
+    padding-top: 1%;
+    color: white;
+    font-size: 13px;
+}
+.permis{
+    padding-top: 1%;
+    color: white;
+    font-size: 13px;
+}
+.competences{
+    padding-top: 10%;
+    font-size: 25px;
+    color: #09535E;
+}
+.web{
+    padding-top: 4%;
+    font-size: 13px;
+}
+.web2{
+    padding-top: 3%;
+    font-size: 12px;
+    color: white;
+}
+.logiciel{
+    padding-top: 4%;
+    font-size: 13px;
+}
+.logiciel2{
+    padding-top: 3%;
+    font-size: 12px;
+    color: white;
+}
+.cyber{
+    padding-top: 4%;
+    font-size: 13px;
+}
+.cyber2{
+    padding-top: 3%;
+    font-size: 12px;
+    color: white;
+}
+.microsoft{
+    padding-top: 4%;
+    font-size: 13px;
+}
+.microsoft2{
+    padding-top: 3%;
+    font-size: 12px;
+    color: white;
+}
+.atouts{
+    padding-top: 10%;
+    font-size: 25px;
+    color: #09535E;
+}
+.atouts2{
+    padding-top: 4%;
+    font-size: 13px;
+    color: white;
+}
+.ci{
+    padding-top: 10%;
+    font-size: 25px;
+    color: #09535E;
+}
+.ci2{
+    padding-top: 4%;
+    font-size: 13px;
+    color: white;
+}
+
+/*XPERIENCES/FORMATION/PR*/
